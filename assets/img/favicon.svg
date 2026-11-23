@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="KAS">
+  <rect width="64" height="64" rx="10" fill="#0e1726"/>
+  <path d="M8 50h48" stroke="#c6f24e" stroke-width="4" stroke-linecap="square"/>
+  <text x="32" y="40" text-anchor="middle" font-family="Barlow Condensed, Arial Narrow, sans-serif"
+        font-size="30" font-weight="700" letter-spacing="1" fill="#f3f4f1">KAS</text>
+</svg>
